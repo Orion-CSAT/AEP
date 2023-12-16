@@ -1,17 +1,24 @@
 # AEP
 Orion's Advanced Engines Pack for Spaceflight Simulator
 
-Hi, and welcome to AEP! This document contains everything you need to know about this pack.
+Hi, and welcome to AEP! This document contains everything you need to know about this pack. 
 
-Download:
+# Recommended and required mods
+N2O4s Electricity part pack (Required): https://github.com/DinitrogenTetroxide/sfs-electricity/releases/tag/v0.5
+
+Proxima's PEx shapes+ (helps make your ships look cool to go with their fancy high-tech engines): https://jmnet.one/sfs/forum/index.php?threads/pex-shapes-a-different-kind-of-pack.13087/
+
+NeptuneSky's VanillaUpgrades (helps with throttling the VASIMR): https://jmnet.one/sfs/forum/index.php?threads/vanillaupgrades.9628/
+
+# Download and installation
 Step 1: download the .pack file
 Step 2: paste the .pack file into the SFS parts folder, located in the mods folder in your game files
 Step 3: load the game, and execute a realistic crewed Saturn mission (Optional, but cool.)
 
-Parts:
+# Parts
 This pack contains 6 different engines, all with their own specs and niches. All these engines are designed for realistic mode, but they should work well for realistic and normal. Each engine also has its own fuel requirments, eg. LH2 for the NERVA RNS and Xenon for the NEXT thruster. All the engines and fuel tanks can be found in the AEP folder in the parts menu.
 
-Engines
+# Engines
 
 VASIMR:
 The VASIMR (Variable Specific Impulse Magnetoplasma Rocket) is a special engine with the ability to shift gears, giving you high specific impulse and low thrust, or lower specific impulse and higher thrust. Change gears by changing the throttle, values given below.
@@ -124,7 +131,7 @@ Specs (Normal mode)
   
   Requires a bit of electricity to operate. Two small solar panels per engine should suffice.
 
-Gallery:
+# Gallery
 
 ![Screenshot_2023-12-02_075526_1](https://github.com/Orion-CSAT/AEP/assets/150719581/362925ef-c1f9-4bae-89ed-417bdac92b86)
 ![Screenshot_2023-12-01_104657_1](https://github.com/Orion-CSAT/AEP/assets/150719581/46975f93-1af6-4336-9aab-37876ec85583)
@@ -134,7 +141,7 @@ Gallery:
 ![Screenshot 2023-12-16 094019](https://github.com/Orion-CSAT/AEP/assets/150719581/59f0e3e7-4b78-4eaf-bd84-76a03aaf76c2)
 
 
-Further reading
+# Further reading
 VASIMR:
 https://en.wikipedia.org/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket
 https://www.adastrarocket.com/our-engine/
