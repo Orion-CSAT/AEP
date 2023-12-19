@@ -8,11 +8,15 @@ N2O4s Electricity part pack (Required): https://github.com/DinitrogenTetroxide/s
 
 Proxima's PEx shapes+ (helps make your ships look cool to go with their fancy high-tech engines): https://jmnet.one/sfs/forum/index.php?threads/pex-shapes-a-different-kind-of-pack.13087/
 
-NeptuneSky's VanillaUpgrades (helps with throttling the VASIMR): https://jmnet.one/sfs/forum/index.php?threads/vanillaupgrades.9628/
+NeptuneSky's VanillaUpgrades (helps with throttling the VASIMR and higher physics timewarp): https://jmnet.one/sfs/forum/index.php?threads/vanillaupgrades.9628/
+
+Pixelgaming579's Smart SAS mod (For handling long prograde burns): https://jmnet.one/sfs/forum/index.php?threads/smart-sas-mod.10427/
 
 # Download and installation
 Step 1: download the .pack file
+
 Step 2: paste the .pack file into the SFS parts folder, located in the mods folder in your game files
+
 Step 3: load the game, and execute a realistic crewed Saturn mission (Optional, but cool.)
 
 # Parts
