@@ -121,7 +121,7 @@ Specs (Normal mode)
 
 
 NEXT Thruster:
-This is the second engine that has been tested in space, and was used in DART. Itès a gridded ion thruster, with slightly stockified values for mass and thrust. Later updates will likely give all of these engines more realistic mass and thrust values.
+This is the second engine that has been tested in space, and was used in DART. It's a gridded ion thruster, with slightly stockified values for mass and thrust. Later updates will likely give all of these engines more realistic mass and thrust values.
 
 Specs (Normal mode)
   
@@ -134,6 +134,17 @@ Specs (Normal mode)
   Fuel: Xenon + Electricity
   
   Requires a bit of electricity to operate. Two small solar panels per engine should suffice.
+
+SNRE:
+Small Nuclear Rocket Engine. Basically a better, 2016 version of the NERVA.
+
+  Isp = 610s
+
+  Thrust = 7.44t
+
+  Mass = 2.4t
+
+  Fuel: LH2
 
 # Gallery
 
