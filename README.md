@@ -146,6 +146,15 @@ Small Nuclear Rocket Engine. Basically a better, 2016 version of the NERVA.
 
   Fuel: LH2
 
+NSWR:
+Nuclear Salt Water Rocket, a crazy idea from Dr. Zubrin. Essentially a continuously detonating nuclear bomb. Guaranteed to turn a launch site into a crater that glows blue for centuries to come.
+
+  Isp = 4486.67s
+
+  Thrust = 1315t
+
+  Fuel: U-235/H2O
+  
 # Gallery
 
 ![Screenshot_2023-12-02_075526_1](https://github.com/Orion-CSAT/AEP/assets/150719581/362925ef-c1f9-4bae-89ed-417bdac92b86)
