@@ -22,148 +22,51 @@ Step 3: load the game, and execute a realistic crewed Saturn mission (Optional, 
 # Parts
 This pack contains 6 different engines, all with their own specs and niches. All these engines are designed for realistic mode, but they should work well for realistic and normal. Each engine also has its own fuel requirments, eg. LH2 for the NERVA RNS and Xenon for the NEXT thruster. All the engines and fuel tanks can be found in the AEP folder in the parts menu.
 
-# Engines
-
-VASIMR:
-The VASIMR (Variable Specific Impulse Magnetoplasma Rocket) is a special engine with the ability to shift gears, giving you high specific impulse and low thrust, or lower specific impulse and higher thrust. Change gears by changing the throttle, values given below.
-
-Specs (Normal mode)
-
-High gear:
-  
-  Isp = 19,400s
-  
-  Thrust = 0.025t
-  
-  Throttle % = 0.01%
-
-Medium gear:
-  
-  Isp = 9,750s
-  
-  Thrust = 0.5t
-  
-  Throttle % = 20%
-
-Low gear:
-  
-  Isp = 3,250s
-  
-  Thrust = 2.5t
-  
-  Throttle % = 100%
-
-Mass = 0.45t
-
-Fuel: Argon + Electricity
-
-This engine will gobble electricity, so make sure you have about 48 large solar panels and a battery for a full range of operation.
-
-
-Daedelus ICF:
-This engine is a beast, the biggest in this pack. Originally intended for the second stage of an interstellar probe, this engine is perfect for sending whatever you want out of the solar system (or in it). Works by fusing He-3/Deuterium pellets roughly 250 times per second.
-
-Specs (Normal mode)
-  
-  Isp = 720,599s
-  
-  Thrust = 70t
-  
-  Mass = 21.5t
-  
-  Fuel: He-3/Deuterium + Electricity
-  
-  Requires a tiny amount of electricity to ignite the fusion pellets.
-
-
-NERVA RNS:
-One of the most studied engines in this pack (researched by NASA and others since the 1950s), Nuclear Thermal Rockets almost flew as an upper stage engine for the Saturn V. This one was designed for a space tug that would transport material to the moon around 40 times before being discarded. Works by running LH2 over (usually) weapons-grade Uranium, heating up the propellant and giving you high exhaust velocities. TWR is horrible, so use in an upper stage.
-
-Specs (Normal mode)
-  
-  Isp = 560s
-  
-  Thrust = 33.6t
-  
-  Mass = 18.7t
-  
-  Fuel: LH2
-
-
-MPD Thruster:
-One of the contenders for the propulsion of a manned mission to Saturn (and the engine that powered the Discovery 1 from 2001: A Space Odyssey), this souped up ion thruster combines (relatively) high thrust with high Isp. Also one of only two engines in this pack that has actually been tested in space.
-
-Specs (Normal mode)
-  
-  Isp = 5,334s
-  
-  Thrust = 0.8t
-  
-  Mass = 0.1t
-  
-  Fuel: Lithium + Electricity
-  
-  You'll need about 16 large solar panels in order to keep this engine running for any reasonable amount of time.
-
-
-Discovery II MCF:
-Propulsion method for a NASA concept mission to Jupiter/Saturn in around a year of travel time. Interesting read, I'll add the study at the end.
-
-Specs (Normal mode)
-  
-  Isp = 23,623s
-  
-  Thrust = 1.8t
-  
-  Mass = 6.5t
-  
-  Fuel: He-3/Deuterium
-
-
-NEXT Thruster:
-This is the second engine that has been tested in space, and was used in DART. It's a gridded ion thruster, with slightly stockified values for mass and thrust. Later updates will likely give all of these engines more realistic mass and thrust values.
-
-Specs (Normal mode)
-  
-  Isp = 2,780s
-  
-  Thrust = 0.5t
-  
-  Mass = 0.03t
-  
-  Fuel: Xenon + Electricity
-  
-  Requires a bit of electricity to operate. Two small solar panels per engine should suffice.
-
-SNRE:
-Small Nuclear Rocket Engine. Basically a better, 2016 version of the NERVA.
-
-  Isp = 610s
-
-  Thrust = 7.44t
-
-  Mass = 2.4t
-
-  Fuel: LH2
-
-NSWR:
-Nuclear Salt Water Rocket, a crazy idea from Dr. Zubrin. Essentially a continuously detonating nuclear bomb. Guaranteed to turn a launch site into a crater that glows blue for centuries to come.
-
-  Isp = 4486.67s
-
-  Thrust = 1315t
-
-  Fuel: U-235/H2O
   
 # Gallery
 
-![Screenshot_2023-12-02_075526_1](https://github.com/Orion-CSAT/AEP/assets/150719581/362925ef-c1f9-4bae-89ed-417bdac92b86)
-![Screenshot_2023-12-01_104657_1](https://github.com/Orion-CSAT/AEP/assets/150719581/46975f93-1af6-4336-9aab-37876ec85583)
-![Screenshot_2023-11-22_104547](https://github.com/Orion-CSAT/AEP/assets/150719581/489601c0-a48c-409b-95a4-cfc7bf7e042e)
-![Screenshot_2023-12-03_120303 (1)](https://github.com/Orion-CSAT/AEP/assets/150719581/85d66e1b-b5ec-4648-955d-e5aed8c7bad7)
-![Screenshot_2023-12-03_111540](https://github.com/Orion-CSAT/AEP/assets/150719581/9b606873-1faa-435a-ad2f-bea98b11ab8d)
-![Screenshot 2023-12-16 094019](https://github.com/Orion-CSAT/AEP/assets/150719581/59f0e3e7-4b78-4eaf-bd84-76a03aaf76c2)
+![Screenshot 2025-06-19 135538](https://github.com/user-attachments/assets/6b38e952-1ca2-4ccf-bdb5-3bfbd5a5e2e3)
+![Screenshot 2025-06-19 135506](https://github.com/user-attachments/assets/39facac9-5c41-448c-bb1e-3d05aeaec6c1)
+![Screenshot 2025-06-19 135414](https://github.com/user-attachments/assets/8cd8226e-eb4b-49f5-873a-58c6c6ad56dd)
+![Screenshot 2025-06-19 135341](https://github.com/user-attachments/assets/96e13f88-1259-4533-b6e9-25fb23a7d2c8)
+![Screenshot 2025-06-19 135310](https://github.com/user-attachments/assets/14841817-c43b-4736-8968-949afb920399)
+![Screenshot 2025-06-19 135244](https://github.com/user-attachments/assets/cffff24b-0379-4451-8629-22583631435c)
+![Screenshot 2025-06-19 135222](https://github.com/user-attachments/assets/d6a90ede-92ab-43be-9ad4-73f5cc5ebe56)
+![Screenshot 2025-06-19 135159](https://github.com/user-attachments/assets/9c0d29f4-a500-46c6-bed7-834efb331686)
+![Screenshot 2025-06-19 135134](https://github.com/user-attachments/assets/297904f0-ccae-4c01-b053-023446ae5500)
+![Screenshot 2025-06-19 135103](https://github.com/user-attachments/assets/d5750c17-e60f-4487-a833-84b45fdb6cc6)
+![Screenshot 2025-06-19 135015](https://github.com/user-attachments/assets/9559bdb8-d0c2-46ea-932c-c027574994a1)
 
+# Changelog
+[SPOILER="Changelog"]
+
+V1.1:
+
+-Fixed Discovery II MCF bug discovered by Altair
+
+-Added fuel requirements to engine descriptions.
+
+
+
+V1.2:
+
+-Added SNRE
+
+-VASIMR Visual overhaul
+
+V1.2.1:
+
+-Fixed Daedalus plume
+
+v1.2.2:
+
+-Added the Nuclear Salt Water Rocket
+
+v1.3:
+
+-Added Criticality-Limited NTR, Z-pinch, FFRE, Daedelus 1st Stage.
+
+-Remastered SNRE, Daedelus, MPD, NEXT, NSWR, and NERVA RNS.
 
 # Further reading
 VASIMR:
@@ -181,5 +84,5 @@ https://www.projectrho.com/public_html/rocket/slowerlight2.php#id--Go_Slow--Subl
 Discovery II general info:
 https://www.projectrho.com/public_html/rocket/realdesignsfusion.php#id--Discovery_II
 
-Discovery II Original study:
+Discovery II Original study (Dead link, use Wayback Machine):
 http://naca.larc.nasa.gov/search.jsp?R=20050160960
