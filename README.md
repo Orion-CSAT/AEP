@@ -38,7 +38,6 @@ This pack contains 6 different engines, all with their own specs and niches. All
 ![Screenshot 2025-06-19 135015](https://github.com/user-attachments/assets/9559bdb8-d0c2-46ea-932c-c027574994a1)
 
 # Changelog
-[SPOILER="Changelog"]
 
 V1.1:
 
