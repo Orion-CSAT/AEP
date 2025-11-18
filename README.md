@@ -12,6 +12,8 @@ NeptuneSky's VanillaUpgrades (helps with throttling the VASIMR and higher physic
 
 Pixelgaming579's Smart SAS mod (For handling long prograde burns): https://jmnet.one/sfs/forum/index.php?threads/smart-sas-mod.10427/
 
+ssdcat's Hyperwarp mod (To warp through long burns): https://jmnet.one/sfs/forum/index.php?threads/hyperwarp-mod-1000x-physical-timewarp.16358/
+
 # Download and installation
 Step 1: Go to Latest Releases (to the right), and download the .pack file
 
